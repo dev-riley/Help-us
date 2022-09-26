@@ -80,16 +80,16 @@
 
 ## 서비스 흐름도
 
-![image-20220919083257074](C:\Users\qlrqo\AppData\Roaming\Typora\typora-user-images\image-20220919083257074.png)
+![image-20220919083257074](C:\Users\qlrqo\OneDrive\바탕 화면\SSAFY\2학기\자율- Github\frontend\image_readme\image-20220919083257074.png)
 
 
 
 ## 주요 기능
 
-![image-20220919083321740](C:\Users\qlrqo\AppData\Roaming\Typora\typora-user-images\image-20220919083321740.png)
+![image-20220919083321740](C:\Users\qlrqo\OneDrive\바탕 화면\SSAFY\2학기\자율- Github\frontend\image_readme\image-20220919083321740.png)
 
 
 
 ## 아키텍처
 
-![image-20220919083403343](C:\Users\qlrqo\AppData\Roaming\Typora\typora-user-images\image-20220919083403343.png)
+![image-20220919083403343](C:\Users\qlrqo\OneDrive\바탕 화면\SSAFY\2학기\자율- Github\frontend\image_readme\image-20220919083403343.png)
