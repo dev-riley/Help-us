@@ -78,16 +78,16 @@
 
 ## 서비스 흐름도
 
-![image-20220919083257074](C:\Users\qlrqo\OneDrive\바탕 화면\SSAFY\2학기\자율- Github\frontend\image_readme\image-20220919083257074.png)
+![image-20220919083257074](https://user-images.githubusercontent.com/82032072/192347764-9e2e6df2-20bc-4c8a-8ee9-87f5587728eb.png)
 
 
 
 ## 주요 기능
 
-![image-20220919083321740](C:\Users\qlrqo\OneDrive\바탕 화면\SSAFY\2학기\자율- Github\frontend\image_readme\image-20220919083321740.png)
-
+![image-20220919083321740](https://user-images.githubusercontent.com/82032072/192347799-aeedddf1-3a47-4370-bb14-297b853e1692.png)
 
 
 ## 아키텍처
 
-![image-20220919083403343](C:\Users\qlrqo\OneDrive\바탕 화면\SSAFY\2학기\자율- Github\frontend\image_readme\image-20220919083403343.png)
+![image-20220919083403343](https://user-images.githubusercontent.com/82032072/192347822-352bc4f2-5d82-4c03-ab33-d0c79e0c4db3.png)
+
