@@ -59,7 +59,7 @@
 
 ![line](./image/line.png)
 
-## 🔖 담당했던 part
+## 🔖 담당했던 Part
 
 게시글과 댓글, 대댓글 CRUD를 담당하였습니다. 
 
@@ -71,11 +71,3 @@
 ![line](./image/line.png)
 
 ### ✍️ 페이지별 상세 내용 : [바로가기](https://www.notion.so/dayelee/Help-us-512aa38abf114fb0b58995c19bbcca3c?pvs=4)
-
-![line](./image/line.png)
-
-
-## 🟩 아키텍처
-
-![image-20220919083403343](https://user-images.githubusercontent.com/82032072/192347822-352bc4f2-5d82-4c03-ab33-d0c79e0c4db3.png)
-
